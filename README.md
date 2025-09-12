@@ -1,26 +1,27 @@
-## About me
-I'm an engineer of digital software development, currently making modern, cutting-edge, open source projects. 
-A graduate of social and modern dynamics of human development, studied strictly for 2 years topcis such as Poaceae also called Gramineae.
+## About Me
+Practitioner of selectively applied software enthusiasm. I assemble small, questionably coherent systems that somehow converge on usefulness (eventually, given sufficient retries and cache invalidations). Any resemblance to a long‑term roadmap is emergent behavior.
 
+I optimize for: clarity (rare), brevity (aspirational), and the quiet satisfaction of deleting code that once felt essential. I refactor preemptively, then pretend it was reactive. I also like churros (domain‑specific carbohydrates supporting sustained debugging throughput).
 
-## Look at those graphs
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JS](https://img.shields.io/badge/Javascipt-c9b24a?style=for-the-badge&logo=javascript&logoColor=white)
+**Favorite Languages (measured in stubbornness, not utility)**
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Brainfuck](https://img.shields.io/badge/Brainfuck-2D2D2D?style=for-the-badge&logo=brainfuck&logoColor=white)
 
-## &#x1f4c8; Some stats (I swear I'm not flexing)
+Underlying stack: a loosely coupled mesh of half‑documented micro‑ideas, synchronized via TODO comments and caffeine. Architectural strategy: deliberate under‑specification to preserve optionality (and plausible deniability). Some components may be imaginary; this is a feature, not a defect.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=IlikeChooros&show_icons=true)
+**Miscellaneous Signal Leakage**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlikeChooros&layout=compact)
 
-## 📕 NOT featured
-*Good luck finding those private repos :-^)*
-- [EStation](https://github.com/IlikeChooros/EStation)
-- [Mondelez](https://github.com/IlikeChooros/Mondelez)
-- [CLife](https://github.com/IlikeChooros/CLife)
-- [Chess-Engine](https://github.com/IlikeChooros/Chess-Engine)
+Meta objective: maintain a sustainable ratio of shipped artifacts to philosophical digressions about build determinism. Occasionally I succeed. Undefined behavior is treated as a creative collaborator.
+
+**Selected Projects (non-exhaustive, reality adjacent)**
+- [EStation](https://github.com/IlikeChooros/EStation) – Orbiting idea density: medium; entropy managed with comments.
+- [Mondelez](https://github.com/IlikeChooros/Mondelez) – May have more in common with Holy Grail than you think
+- [CLife](https://github.com/IlikeChooros/CLife) – Probably not what you expect
+- [Chess-Engine](https://github.com/IlikeChooros/Chess-Engine) – Deterministic evaluation wrapped around speculative intention.
+
+If any of this sounds confusing, it’s working as designed. If it sounds normal, we may already be in the same debugger session.
 
