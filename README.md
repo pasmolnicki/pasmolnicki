@@ -13,15 +13,15 @@ Underlying stack: a loosely coupled mesh of half‑documented micro‑ideas, syn
 
 **Miscellaneous Signal Leakage**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IlikeChooros&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pasmolnicki&layout=compact)
 
 Meta objective: maintain a sustainable ratio of shipped artifacts to philosophical digressions about build determinism. Occasionally I succeed. Undefined behavior is treated as a creative collaborator.
 
 **Selected Projects (non-exhaustive, reality adjacent)**
-- [EStation](https://github.com/IlikeChooros/EStation) – Orbiting idea density: medium; entropy managed with comments.
-- [Mondelez](https://github.com/IlikeChooros/Mondelez) – May have more in common with Holy Grail than you think
-- [CLife](https://github.com/IlikeChooros/CLife) – Probably not what you expect
-- [Chess-Engine](https://github.com/IlikeChooros/Chess-Engine) – Deterministic evaluation wrapped around speculative intention.
+- [EStation](https://github.com/pasmolnicki/EStation) 
+- [Mondelez](https://github.com/pasmolnicki/go-mcts)
+- [CLife](https://github.com/pasmolnicki/CLife)
+- [Chess-Engine](https://github.com/pasmolnicki/Chess-Engine)
 
 If any of this sounds confusing, it’s working as designed. If it sounds normal, we may already be in the same debugger session.
 
