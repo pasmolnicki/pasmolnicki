@@ -1,5 +1,5 @@
 ## About Me
-Practitioner of selectively applied software enthusiasm. I assemble small, questionably coherent systems that somehow converge on usefulness (eventually, given sufficient retries and cache invalidations). Any resemblance to a long‑term roadmap is emergent behavior.
+Practitioner of selectively applied software enthusiasm. Currently engrossing myself in studies, enforced by the Wrocław University of Science and Technology. I assemble small, questionably coherent systems that somehow converge on usefulness (eventually, given sufficient retries and cache invalidations). Any resemblance to a long‑term roadmap is emergent behavior.
 
 I optimize for: clarity (rare), brevity (aspirational), and the quiet satisfaction of deleting code that once felt essential. I refactor preemptively, then pretend it was reactive. I also like churros (domain‑specific carbohydrates supporting sustained debugging throughput).
 
@@ -19,7 +19,7 @@ Meta objective: maintain a sustainable ratio of shipped artifacts to philosophic
 
 **Selected Projects (non-exhaustive, reality adjacent)**
 - [EStation](https://github.com/pasmolnicki/EStation) 
-- [Mondelez](https://github.com/pasmolnicki/go-mcts)
+- [go-mcts](https://github.com/pasmolnicki/go-mcts)
 - [CLife](https://github.com/pasmolnicki/CLife)
 - [Chess-Engine](https://github.com/pasmolnicki/Chess-Engine)
 
